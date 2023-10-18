@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohtashim Raza
-- 👀 I’m interested in font developer
+- 👀 I’m interested in software development
 - 🌱 I’m currently developer
 - 💞️ I’m looking to collaborate on reactNative
 - 📫 How to reach me @mohtashimkhatri@gmail.com
