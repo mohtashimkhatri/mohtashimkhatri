@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mohtashim Raza
-- 👀 I’m interested in software development
-- 🌱 I’m currently developer
-- 💞️ I’m looking to collaborate on reactNative
-- 📫 How to reach me @mohtashimkhatri@gmail.com
+- 👀 I’m a Full Stack Developer
+- 🌱 I Have 3 year's experience of Full Stack Development  
+- 📫 How to reach me @mohtashimraza911@gmail.com
 
 <!---
 mohtashimkhatri/mohtashimkhatri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
